@@ -1,2 +1,2 @@
 # SyrD.NET
-Unofficial .NET driver for SyrDB
+Official .NET driver for SyrDB
